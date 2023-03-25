@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.ds{
+    max-width: 100%;
+    height: auto;
+}
+.imgcontainer {
+    position: relative;
+  }
+  
+  .centertext {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    color:rgb(242, 242, 242);
+  }
+  
+  .sessionimg { 
+    width: 100%;
+    height: auto;
+    opacity: 0.5;
+  }

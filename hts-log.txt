@@ -1,0 +1,72 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 23 Mar 2023 19:39:39 at https://indooncologysummit.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://indooncologysummit.com -O1 "C:\My Web Sites\Trial" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:40:21	Error: 	"Not Found" (404) at link https://indooncologysummit.com/images/favicon.png (from https://indooncologysummit.com/)
+19:40:21	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://indooncologysummit.com/)
+19:41:15	Error: 	"Not Found" (404) at link https://indooncologysummit.com/images/resource/image-3.jpg (from https://indooncologysummit.com/)
+19:41:23	Warning: 	File not parsed, looks like binary: https://indooncologysummit.com/fonts/BelmonteRough.woff2
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/Amit_Sharma.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/DR GANESH.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/lucy pattnYAK.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/RAJESH PADHI.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/dr susanta.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/Dr Chira Ranjan Khadanga.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/Dr. Romila Tiwari.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/sanjib mishra.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/sabya sachi.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/dr sutapa biswas.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/Aparna dhir.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/Naveen PP White.png (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/Dr-Roshni-Bhagwat-Shah.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/dr-ashish-.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/drbhaveshparekh.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/Dr. Chirag Desai.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/Dr-Hemendra-Mod (2).png (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/indu dr.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/Dr Prathmesh Pai.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/pratibha-kadam.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/dr_ramakant_deshpande_surgical_oncologist.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/dr_santosh.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/Dr. Sewanti Limaye.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/IMG-20220720-WA0000.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/dr-rakesh-jalali-radiation-oncology-in-chennai.png (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/b gobinda babu.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/dr anitha ramesh.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/Prof. Dr. Hemant Malhotra,.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/drlalit.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/WhatsApp Image 2022-07-23 at 2.41.26 PM.jpeg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/DSC_7733.JPG (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/WhatsApp Image 2022-07-11 at 10.59.06 AM.jpeg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/DR. BHAVESH B. PAREKH.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/IMG-20220728-WA0014.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/Dr. Shweta Bansal.jpeg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/dr chanchal goswami.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/IMG-20220728-WA0013.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/IMG-20220728-WA0001.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/IMG-20220726-WA0000.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/WhatsApp Image 2022-07-21 at 12.01.26 PM.jpeg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/WhatsApp Image 2022-07-20 at 5.14.11 PM.jpeg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/IMG-20220727-WA0001.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/IMG-20220725-WA0001.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/IMG-20220728-WA0012.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/WhatsApp Image 2022-08-25 at 3.07.41 PM (1).jpeg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/Oncology-ProfSarojPanda-Bhubaneswar-69c5a1 (1).jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/Ashutosh-Panigrahi-3.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/dr_prashant_kumar_parida_medical_oncologist.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/pinky photo (2).jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/A C MATIN.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/613a2232-3d92-469c-aa28-23b185d3877a-1.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Forbidden" (403) at link https://icair.in/admin/panel/uploads/ocm/dR ARIF.jpg (from https://indooncologysummit.com/committee.php)
+19:41:23	Error: 	"Not Found" (404) at link https://indooncologysummit.com/call-for-paper.php (from https://indooncologysummit.com/call-for-papers.php)
+19:41:23	Error: 	"Not Found" (404) at link https://indooncologysummit.com/index.html (from https://indooncologysummit.com/exhibitor-registration.php)
+19:41:23	Warning: 	File not parsed, looks like binary: https://indooncologysummit.com/fonts/fa-brands-400.woff2
+19:41:23	Warning: 	File not parsed, looks like binary: https://indooncologysummit.com/fonts/fa-regular-400.woff2
+19:41:23	Warning: 	File not parsed, looks like binary: https://indooncologysummit.com/fonts/fa-solid-900.woff2
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 45 seconds : 334 links scanned, 276 files written (70873718 bytes overall) [70955387 bytes received at 675765 bytes/sec], 31000 bytes transferred using HTTP compression in 1 files, ratio 22%, 9.6 requests per connection
+(57 errors, 4 warnings, 0 messages)

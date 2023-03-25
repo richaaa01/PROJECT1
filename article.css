@@ -1,0 +1,20 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+div.polaroid {
+    width: 30%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+  }
+  
+  div.container3 {
+    text-align: center;
+    padding: 10px 20px;
+  }
+  body {margin:35px;}
+  .textbox4{
+    background-color: #00167a;
+
+  }

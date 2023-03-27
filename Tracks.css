@@ -4,9 +4,9 @@
     box-sizing: border-box;
   }
   body{
-    background-color: rgb(63,72,83);
+    background-color: rgb(240,248,255);
     font-family: sans-serif;
-    color: rgb(220,220,220);
+    color: rgb(0, 0, 0);
     padding: 50px;
     width: 100vw;
     overflow-x: hidden;
@@ -78,7 +78,7 @@
     position: sticky;
     top: 0px;
     z-index: 1;
-    background-color: rgb(27,30,36);
+    background-color: rgb(45, 46, 47);
     color: rgb(220,220,220);
   }
   .st_table_header h2{
